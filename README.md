@@ -1,1 +1,2 @@
-# git-calculator
+A Sample Calculator
+
